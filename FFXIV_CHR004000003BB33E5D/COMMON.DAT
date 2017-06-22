@@ -1,6 +1,6 @@
 BattleEffectSelf	0
 BattleEffectParty	0
-BattleEffectOther	0
+BattleEffectOther	1
 
 <GamePad Settings>
 PadMode	0
@@ -32,7 +32,7 @@ IdleEmoteRandomType	0
 CutsceneSkipIsShip	0
 CutsceneSkipIsContents	0
 CutsceneSkipIsHousing	0
-TurnSpeed	50
+TurnSpeed	57
 FootEffect	0
 LegacySeal	1
 GBarrelDisp	1
@@ -284,7 +284,7 @@ LogPermeationRate	50
 LogFontSizeForm	12
 LogItemLinkEnableType	1
 LogFontSizeLog2	12
-LogTimeDispLog2	0
+LogTimeDispLog2	1
 LogPermeationRateLog2	50
 LogFontSizeLog3	12
 LogTimeDispLog3	0
@@ -340,7 +340,7 @@ ItemSortItemCategory	0
 ItemSortEquipLevel	1
 ItemSortItemLevel	1
 ItemSortItemStack	1
-ItemSortTidyingType	0
+ItemSortTidyingType	1
 ItemNoArmoryMaskOff	0
 TargetNamePlateNameType	0
 FocusTargetNamePlateNameType	0
@@ -351,8 +351,8 @@ ItemDetailTemporarilyHideKey	1
 ToolTipDispSize	0
 RecommendLoginDisp	1
 RecommendAreaChangeDisp	0
-PlayGuideLoginDisp	1
-PlayGuideAreaChangeDisp	1
+PlayGuideLoginDisp	0
+PlayGuideAreaChangeDisp	0
 MapPadOperationYReverse	0
 MapPadOperationXReverse	0
 MapDispSize	0
@@ -370,12 +370,12 @@ ContentsFinderUseLangTypeJA	0
 ContentsFinderUseLangTypeEN	0
 ContentsFinderUseLangTypeDE	0
 ContentsFinderUseLangTypeFR	0
-ItemInventryWindowSizeType	0
-ItemInventryRetainerWindowSizeType	0
+ItemInventryWindowSizeType	1
+ItemInventryRetainerWindowSizeType	1
 EmoteTextType	1
 PartyFinderNewArrivalDisp	0
 LsListSortPriority	0
-FriendListSortPriority	0
+FriendListSortPriority	1
 FriendListFilterType	0
 FriendListSortType	0
 LetterListFilterType	0
