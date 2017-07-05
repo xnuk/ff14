@@ -3,7 +3,7 @@ BattleEffectParty	0
 BattleEffectOther	1
 
 <GamePad Settings>
-PadMode	0
+PadMode	1
 
 <UI Settings>
 
@@ -29,8 +29,8 @@ LegacyCameraType	1
 CameraLookBlinkType	0
 IdleEmoteTime	5
 IdleEmoteRandomType	0
-CutsceneSkipIsShip	0
-CutsceneSkipIsContents	0
+CutsceneSkipIsShip	1
+CutsceneSkipIsContents	1
 CutsceneSkipIsHousing	0
 TurnSpeed	57
 FootEffect	0
@@ -38,8 +38,8 @@ LegacySeal	1
 GBarrelDisp	1
 TimeMode	2
 Time12	0
-TimeEorzea	0
-TimeLocal	1
+TimeEorzea	1
+TimeLocal	0
 TimeServer	0
 ActiveLS_H	0
 ActiveLS_L	0
@@ -66,7 +66,7 @@ HotbarCrossCommon07	1
 HotbarCrossCommon08	1
 HotbarCrossHelpDisp	1
 HotbarCrossOperation	0
-HotbarCrossDisp	0
+HotbarCrossDisp	1
 HotbarCrossLock	0
 HotbarCrossUsePadGuide	1
 HotbarCrossActiveSet	0
@@ -89,9 +89,9 @@ HotbarCrossSetChangeCustomIsSwordSet5	0
 HotbarCrossSetChangeCustomIsSwordSet6	0
 HotbarCrossSetChangeCustomIsSwordSet7	0
 HotbarCrossSetChangeCustomIsSwordSet6	0
-HotbarCrossAdvancedSetting	0
-HotbarCrossAdvancedSettingLeft	15
-HotbarCrossAdvancedSettingRight	14
+HotbarCrossAdvancedSetting	1
+HotbarCrossAdvancedSettingLeft	3
+HotbarCrossAdvancedSettingRight	2
 HotbarCrossSetPvpModeActive	0
 HotbarCrossSetChangeCustomPvp	0
 HotbarCrossSetChangeCustomIsAutoPvp	1
@@ -115,16 +115,16 @@ HotbarCrossSetChangeCustomIsSwordSet6Pvp	0
 HotbarCrossAdvancedSettingPvp	0
 HotbarCrossAdvancedSettingLeftPvp	15
 HotbarCrossAdvancedSettingRightPvp	14
-HotbarWXHBEnable	0
-HotbarWXHBSetLeft	14
-HotbarWXHBSetRight	15
+HotbarWXHBEnable	1
+HotbarWXHBSetLeft	2
+HotbarWXHBSetRight	3
 HotbarWXHBEnablePvP	0
 HotbarWXHBSetLeftPvP	14
 HotbarWXHBSetRightPvP	15
 HotbarWXHB8Button	0
 HotbarWXHB8ButtonPvP	0
 HotbarWXHBSetInputTime	25
-HotbarWXHBDisplay	0
+HotbarWXHBDisplay	1
 HotbarWXHBFreeLayout	0
 HotbarXHBActiveTransmissionAlpha	0
 HotbarWXHBInputOnce	0
