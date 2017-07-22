@@ -243,7 +243,7 @@ Log	0
 LogTell	0
 LogFontSize	12
 LogTabName2	이벤트
-LogTabName3	
+LogTabName3	초보자
 LogTabFilter0	0
 LogTabFilter1	1
 LogTabFilter2	2
@@ -290,7 +290,7 @@ LogFontSizeLog3	12
 LogTimeDispLog3	0
 LogPermeationRateLog3	50
 LogFontSizeLog4	12
-LogTimeDispLog4	0
+LogTimeDispLog4	1
 LogPermeationRateLog4	50
 LogFlyingHeightMaxErrDisp	1
 ShopSell	0
