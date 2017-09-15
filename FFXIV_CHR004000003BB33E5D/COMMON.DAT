@@ -36,9 +36,9 @@ TurnSpeed	57
 FootEffect	1
 LegacySeal	1
 GBarrelDisp	1
-EgiMirageTypeGaruda	0
-EgiMirageTypeTitan	0
-EgiMirageTypeIfrit	0
+EgiMirageTypeGaruda	2
+EgiMirageTypeTitan	1
+EgiMirageTypeIfrit	3
 TimeMode	2
 Time12	0
 TimeEorzea	1
