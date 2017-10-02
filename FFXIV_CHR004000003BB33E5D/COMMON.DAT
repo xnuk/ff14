@@ -72,7 +72,7 @@ HotbarCrossOperation	0
 HotbarCrossDisp	1
 HotbarCrossLock	0
 HotbarCrossUsePadGuide	1
-HotbarCrossActiveSet	5
+HotbarCrossActiveSet	0
 HotbarCrossSetChangeCustomIsAuto	0
 HotbarCrossSetChangeCustom	0
 HotbarCrossSetChangeCustomSet1	0
